@@ -42,3 +42,5 @@ But I've a plan of updating this Keylogger, which will do the following things:
 ## Credits & License
 
 Python-Keylogger were put together by [Hrisikesh](https://twitter.com/hrisikesh_pal) [(VirusZzWarning)](https://github.com/VirusZzHkP). Python-Keylogger is licensed under the [GNU General Public License v3.0 ](LICENSE). 
+
+VirusZzWarning ♥
