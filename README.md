@@ -3,7 +3,9 @@
 Keylogger: It  is a type of surveillance technology used to monitor and record each keystroke on a specific computer.
 Keyloggers are of two types: Hardware Keylogger and Software Keylogger.
 
+## Disclaimer:
 
+### This tool is made for Educational purpose only. Don't use it for ILLEGAL Activities. You are responsible for your Actions.
 
 ## About this Keylogger
 This is a software based keylogger which stores all the keystrokes locally in a text file named `keylogger.txt`, with proper timings mentioned.
